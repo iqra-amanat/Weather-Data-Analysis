@@ -38,14 +38,14 @@ Press_kPa: Atmospheric pressure in kilopascals.
 
 ## Project Workflow
 
-1. # Data Cleaning
+### 1.  Data Cleaning
 
 Handled missing values by imputing the mean for numerical columns.
 
 Converted the Date/Time column to a datetime format for better time-series analysis.
 
 
-2. # Exploratory Data Analysis (EDA)
+### 2.  Exploratory Data Analysis (EDA)
 
 Calculated summary statistics to understand the data distribution.
 
@@ -54,7 +54,7 @@ Visualized temperature distribution, time-series trends, and correlations betwee
 Performed seasonal analysis to identify patterns in temperature over months.
 
 
-3. # Visualizations
+### 3.  Visualizations
 
 Temperature Distribution: Histogram showing the distribution of temperatures.
 
